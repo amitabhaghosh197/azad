@@ -1,0 +1,76 @@
+/*
+Theme Name: teresa
+Theme URI: http://underscores.me/
+Author: damiracle
+Author URI: http://damiracle.com
+Description: Teresa is theme for women power, is fully responsive, having a quality range a user interface
+Version: 1.0-wpcom
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: teresa
+Tags:
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+ teresa is based on Underscores http://underscores.me/, (C) 2012-2014 Automattic, Inc.
+
+Resetting and rebuilding styles have been helped along thanks to the fine work of
+Eric Meyer http://meyerweb.com/eric/tools/css/reset/index.html
+along with Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
+and Blueprint http://www.blueprintcss.org/
+*/
+
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+Wordpress Default
+--------------------------------------------------------------*/
+.alignleft {
+display: inline;
+float: left;
+margin-right: 1.5em;
+}
+.alignright {
+display: inline;
+float: right;
+margin-left: 1.5em;
+}
+.aligncenter {
+clear: both;
+display: block;
+margin: 0 auto;
+}
+ 
+.sticky {
+}
+.hentry {
+margin: 0 0 1.5em;
+}
+ 
+.bypostauthor {
+}
+ 
+ 
+.wp-caption {
+border: 1px solid #ccc;
+margin-bottom: 1.5em;
+max-width: 100%;
+}
+.wp-caption img[class*="wp-image-"] {
+display: block;
+margin: 1.2% auto 0;
+max-width: 98%;
+}
+.wp-caption-text {
+text-align: center;
+}
+.wp-caption .wp-caption-text {
+margin: 0.8075em 0;
+}
+ 
+.gallery-caption {
+}
+ 
+.bypostauthor {
+}

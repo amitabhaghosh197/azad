@@ -1,0 +1,98 @@
+********************************************************************************
+PACKAGE-LOG: 2014-12-20 09:55:18
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	0.5.8
+WORDPRESS:	4.0.1
+PHP INFO:	5.4.19 | SAPI: apache2handler
+SERVER:		Apache/2.4.4 (Win32) OpenSSL/0.9.8y PHP/5.4.19 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 5000M (512M default) 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP
+MYSQLDUMP:    Not Supported
+MYSQLTIMEOUT: 5000 
+TABLES: total:31 | filtered:0 | create:31 
+FILTERED: [] 
+pow_commentmeta (0) 
+pow_comments (1) 
+pow_duplicator_packages (1) 
+pow_eg_grids (1) 
+pow_eg_item_elements (0) 
+pow_eg_item_skins (44) 
+pow_eg_navigation_skins (8) 
+pow_links (0) 
+pow_options (198) 
+pow_postmeta (529) 
+pow_posts (225) 
+pow_term_relationships (59) 
+pow_term_taxonomy (9) 
+pow_terms (9) 
+pow_usermeta (25) 
+pow_users (1) 
+pow_wysija_campaign (1) 
+pow_wysija_campaign_list (0) 
+pow_wysija_custom_field (1) 
+pow_wysija_email (2) 
+pow_wysija_email_user_stat (0) 
+pow_wysija_email_user_url (0) 
+pow_wysija_form (1) 
+pow_wysija_list (2) 
+pow_wysija_queue (0) 
+pow_wysija_url (0) 
+pow_wysija_url_mail (0) 
+pow_wysija_user (2) 
+pow_wysija_user_field (2) 
+pow_wysija_user_history (0) 
+pow_wysija_user_list (3) 
+SQL CREATED: 20141208_azadfoundation_549546d2367ac8673141220095218_database.sql 
+SQL FILE SIZE: 1.25MB 
+SQL RUNTIME: 6.48 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  E:/xampp/htdocs/azadfoundation/final 
+ARCHIVE FILE: 20141208_azadfoundation_549546d2367ac8673141220095218_archive.zip 
+FILTERS: *ON* 
+DIRS:  E:/xampp/htdocs/azadfoundation/final/wp-content/themes/teresa/core/layout-files/images/big.psd; 
+EXTS:  zip;rar;tar;gz;bz2;7z; 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	106.22MB 
+STATS:	Dirs 546 | Files 3,804 | Links 0 
+SQL ADDED: 20141208_azadfoundation_549546d2367ac8673141220095218_database.sql 
+WARNING: Unable to zip directory: 'E:/xampp/htdocs/azadfoundation/final' 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 4350
+    [filename] => E:\xampp\htdocs\azadfoundation\final\wp-snapshots\tmp\20141208_azadfoundation_549546d2367ac8673141220095218_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 76.28MB 
+ARCHIVE RUNTIME: 72.00 sec. 
+
+******************************************************************************** 
+INSTALLER: 
+******************************************************************************** 
+INSTALLER FILE: Build Start 
+INSTALLER FILE: Build Finished 
+INSTALLER FILE: Preping for use 
+INSTALLER FILE: Template parsed with new data 
+INSTALLER FILE: Complete [E:/xampp/htdocs/azadfoundation/final/wp-snapshots/tmp/20141208_azadfoundation_549546d2367ac8673141220095218_installer.php] 
+INSTALLER FILE: Added to archive 
+
+********************************************************************************
+RECORD ID:[2]
+FILE SIZE: Archive:76.28MB | SQL:1.25MB | Installer:414.48KB
+TOTAL PROCESS RUNTIME: 83.27 sec.
+DONE PROCESSING => 20141208_azadfoundation 2014-12-20 09:56:42
+********************************************************************************
+ 

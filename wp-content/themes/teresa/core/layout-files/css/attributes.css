@@ -1,0 +1,51 @@
+@charset "utf-8";
+/* CSS Document */
+
+[color = "white"]{
+	color : #fff;
+	}
+[background = "white"]{
+	
+	background-color : #fff;
+	}
+	
+[color = "dark-pink"]{
+	color : #61284b;
+	}
+[background = "dark-pink"]{
+	
+	background-color : #61284b;
+	}
+
+[color = "dark-grey"]{
+	
+	color : #595959;
+	
+	}
+	
+[background = "dark-grey"]{
+	
+	background-color : #595959;
+	
+	}
+
+[color = "light-grey"]{
+	color : #727272;
+	}
+[background = "light-grey"]{
+	
+	background-color : #727272;
+	}
+
+[color = "turquoise"]{
+	color : #02c9d8;
+	}
+[background = "turquoise"]{
+	
+	background-color : #02c9d8;
+	}
+
+/**************Margins****************************/
+[margin = "margin-bot42"]{ margin-bottom : 42px ;}
+
+
